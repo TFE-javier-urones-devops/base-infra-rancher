@@ -1,1 +1,3 @@
-# Este repositorio permite desplegar usando terraform una clúster de EKS y una VPC en AWS.
+# Base-Infra-Rancher
+
+Este repositorio contiene los archivos de Terraform para desplegar unr clúster de EKS y una VPC en AWS.

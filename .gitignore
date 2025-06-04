@@ -1,0 +1,35 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+override.tf
+override.tf.json
+.crash.log
+*.log
+*.tfplan
+
+# Helm files
+charts/
+*.tgz
+
+# Kubernetes files
+*.kubeconfig
+*.yaml~
+
+# Sensitive files
+secrets.yaml
+*.key
+*.pem
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
